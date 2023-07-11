@@ -1,0 +1,21 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+    body {
+        background-image: url(https://image.slidesdocs.com/responsive-images/background/white-leaves-e-commerce-banner-green-leaf-powerpoint-background_dc425fdf9e__960_540.jpg);
+    }
+
+    p {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+  </style>
